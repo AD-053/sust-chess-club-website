@@ -39,6 +39,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## Development Team
 
 - Autanu Datta — Frontend Developer
-- Taposh Kumar Ghosh — Frontend Developer
 - Rahad Islam — Backend Developer
-- Roisul Islam — Backend Developer
